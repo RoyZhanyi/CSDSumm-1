@@ -1,6 +1,4 @@
-# CSDSumm数据集
-本链接为客户服务对话摘要数据集 -- CSDSumm。
-我们将在近期公开所构建的数据集。
+
 
 Examples:
 ---
@@ -16,7 +14,7 @@ Agent : We'd recommend creating a backup of the data on both devices and updatin
 Customer: That fixed it.                                                                            
 Agent: Great. Let us know if you have any further questions or concerns. We're happy to help.   
 ```
-**Sumamry:  **
+**Sumamry:**
 ```go
 The customer is having trouble with their AirPods not playing audio, and the agent troubleshoots with them. They recommend creating a backup of the data on both devices and updating to iOS 11.1. This fixes the problem. 
 ```
