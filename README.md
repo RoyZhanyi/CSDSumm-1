@@ -4,6 +4,7 @@
 
 Examples:
 ---
+**Dialogue:**
 ```go
 Customer: AirPods are connected but don’t play audio anymore any troubleshooting tips?
 Agent:  We can certainly take a look! To begin, does this occur with all devices or just one? 
@@ -15,9 +16,11 @@ Customer: That fixed it.
 Agent: Great. Let us know if you have any further questions or concerns. We're happy to help.   
 ```
 ```go
-Sumamry:  The customer is having trouble with their AirPods not playing audio, and the agent troubleshoots with them. They recommend creating a backup of the data on both devices and updating to iOS 11.1. This fixes the problem. 
+**Sumamry:  **
+The customer is having trouble with their AirPods not playing audio, and the agent troubleshoots with them. They recommend creating a backup of the data on both devices and updating to iOS 11.1. This fixes the problem. 
 ```
+**Commpany:**
 ```go
-Commpany: AppleSupport 
+AppleSupport 
 ```
 
